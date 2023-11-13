@@ -1,0 +1,15 @@
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/bin/Debug/net7.0/MarketPlace.SAL.deps.json
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/bin/Debug/net7.0/MarketPlace.SAL.dll
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/bin/Debug/net7.0/MarketPlace.SAL.pdb
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/bin/Debug/net7.0/MarketPlace.DAL.dll
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/bin/Debug/net7.0/MarketPlace.DAL.pdb
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/obj/Debug/net7.0/MarketPlace.SAL.csproj.AssemblyReference.cache
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/obj/Debug/net7.0/MarketPlace.SAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/obj/Debug/net7.0/MarketPlace.SAL.AssemblyInfoInputs.cache
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/obj/Debug/net7.0/MarketPlace.SAL.AssemblyInfo.cs
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/obj/Debug/net7.0/MarketPlace.SAL.csproj.CoreCompileInputs.cache
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/obj/Debug/net7.0/MarketPlace.SAL.csproj.CopyComplete
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/obj/Debug/net7.0/MarketPlace.SAL.dll
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/obj/Debug/net7.0/refint/MarketPlace.SAL.dll
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/obj/Debug/net7.0/MarketPlace.SAL.pdb
+/Users/antonkravchenko/Projects/MarketPlace/MarketPlace.SAL/obj/Debug/net7.0/ref/MarketPlace.SAL.dll
